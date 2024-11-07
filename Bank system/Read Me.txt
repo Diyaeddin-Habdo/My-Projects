@@ -1,0 +1,18 @@
+In this Project We Used 
+=> C# Windows forms
+=> SQL Server ADO.NET
+=> 3-Tier Architecture
+=> Divide and Conquer :-)
+
+To excute the project on your pc
+=> Extract "Bankdb.zip" on your pc disk
+=> Restore database to your SQL server
+=> Extract "Bank System.zip" on your pc
+=> Open Bank System with visual studio and run it (Username: diya , Password : 0000)
+
+Contact information
+Whatsapp, Telegram: 0 552 726 25 36 
+Email: diyahabdo@gmail.com
+
+Thank you & Best Regards
+Diyaeddin Habdo
